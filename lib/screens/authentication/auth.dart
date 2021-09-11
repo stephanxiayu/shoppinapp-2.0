@@ -18,7 +18,7 @@ class AuthenticationScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             SizedBox(height: MediaQuery.of(context).size.width / 3),
-            Image.asset(logo, width: 200,),
+            Text("SG Technology", style: TextStyle(fontSize: 35),),
             SizedBox(height: MediaQuery.of(context).size.width / 5),
 
             Visibility(

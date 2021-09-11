@@ -62,7 +62,7 @@ class CartItemWidget extends StatelessWidget {
           padding:
           const EdgeInsets.all(14),
           child: CustomText(
-            text: "\$${cartItem.cost}",
+            text: "${cartItem.cost}\€",
             size: 22,
             weight: FontWeight.bold,
           ),
