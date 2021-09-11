@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419612219037",
+    "project_id": "testshop-5f385",
+    "storage_bucket": "testshop-5f385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419612219037:android:51df170dfb772aeeaae674",
+        "android_client_info": {
+          "package_name": "com.santosenoque.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419612219037-kk43oii5ccg2ita04uvt6ukfo16t85g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj4xkK8uLOeHkDjVMV36YO4U18-JVNmE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419612219037-kk43oii5ccg2ita04uvt6ukfo16t85g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
